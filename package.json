@@ -1,0 +1,22 @@
+{
+  "name": "ecommerceapplication2",
+  "version": "1.0.0",
+  "description": "mern shopping",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahuljha12527/EcommerceApplication.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahuljha12527/EcommerceApplication/issues"
+  },
+  "homepage": "https://github.com/rahuljha12527/EcommerceApplication#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
